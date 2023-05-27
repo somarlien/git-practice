@@ -7,4 +7,4 @@ MY TO-DO LIST
 5. Bus home.
 6. Eat food.
 7. Study Git. 
-8. Go to bed
+8. Go to bed.
