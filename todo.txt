@@ -1,8 +1,9 @@
 MY TO-DO LIST
 
-1. Write an article.
-2. Code.
-3. Study books.
-4. Attend classes on time.
-5. Visit aunt.
-6. Apply for remote jobs. 
+1. Wake up.
+2. Coffee.
+3. Read book.
+4. Go to work.
+5. Bus home.
+6. Eat food.
+7. Study Git 
