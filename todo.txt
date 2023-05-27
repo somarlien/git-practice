@@ -1,9 +1,9 @@
 MY TO-DO LIST
 
 1. Wake up.
-2. Coffee.
+2. Drink coffee.
 3. Read book.
 4. Go to work.
 5. Bus home.
 6. Eat food.
-7. Study Git 
+7. Study Git. 
