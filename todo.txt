@@ -4,7 +4,9 @@ MY TO-DO LIST
 2. Drink coffee.
 3. Read book.
 4. Go to work.
-5. Bus home.
-6. Eat food.
-7. Study Git. 
-8. Go to bed.
+5. Bus home
+6. Pet dog.
+7. Eat food.
+8. Study Git. 
+9. Brush teeth.
+10. Go to bed. 
